@@ -45,7 +45,7 @@
 
 /**
  * @file   doc.h
- * @author Geert Van Hecje
+ * @author Geert Van Hecke
  * @date   12 April 2016
  * @brief  File containing the pinout documentation of a Particle Electron.
  *
